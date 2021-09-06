@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=http://repudemo.repuweb.net/wp-content/uploads/2017/06/wood-main-bg.jpg">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "http://repudemo.repuweb.net/wp-content/uploads/2017/06/wood-main-bg.jpg";
+		</script>
+
+		<p>You are being redirected to <a href="http://repudemo.repuweb.net/wp-content/uploads/2017/06/wood-main-bg.jpg">http://repudemo.repuweb.net/wp-content/uploads/2017/06/wood-main-bg.jpg</a></p>
+	</body>
+</html>
